@@ -9,8 +9,8 @@ Adds an option to the ACP Manage users to edit a user's notifications.
 [![Total Downloads](https://poser.pugx.org/david63/acpusernotifications/downloads)](https://packagist.org/packages/david63/acpusernotifications)
 
 ## Minimum Requirements
-* phpBB 3.3.0
-* PHP 7.1.3
+* phpBB 3.3.19 or later
+* PHP 8.1 or later
 
 ## Install
 1. [Download the latest release](https://github.com/david63/acpusernotifications/archive/3.3.zip) and unzip it.
